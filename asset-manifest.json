@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nigh/static/css/main.34de6062.chunk.css",
-    "main.js": "/nigh/static/js/main.da825a0f.chunk.js",
-    "main.js.map": "/nigh/static/js/main.da825a0f.chunk.js.map",
+    "main.js": "/nigh/static/js/main.9bff21b0.chunk.js",
+    "main.js.map": "/nigh/static/js/main.9bff21b0.chunk.js.map",
     "runtime-main.js": "/nigh/static/js/runtime-main.33ba3fd7.js",
     "runtime-main.js.map": "/nigh/static/js/runtime-main.33ba3fd7.js.map",
     "static/js/2.6fe3b3d0.chunk.js": "/nigh/static/js/2.6fe3b3d0.chunk.js",
     "static/js/2.6fe3b3d0.chunk.js.map": "/nigh/static/js/2.6fe3b3d0.chunk.js.map",
     "index.html": "/nigh/index.html",
-    "precache-manifest.b677d1f203a37896512ea77403460af1.js": "/nigh/precache-manifest.b677d1f203a37896512ea77403460af1.js",
+    "precache-manifest.8bf5616a0d7f97f3ec4d7e60143941db.js": "/nigh/precache-manifest.8bf5616a0d7f97f3ec4d7e60143941db.js",
     "service-worker.js": "/nigh/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/nigh/static/css/main.34de6062.chunk.css.map"
   }
