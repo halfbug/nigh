@@ -2,7 +2,7 @@
   "name": "nigh",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://halfbug.github.io/TD-React-Challenge-Test-1",
+  "homepage": "https://halfbug.github.io/nigh",
   "dependencies": {
     "@material-ui/core": "^4.4.2",
     "@material-ui/icons": "^4.4.1",
@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
